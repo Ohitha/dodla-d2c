@@ -2,6 +2,9 @@ import streamlit as st
 import json
 import os
 
+# Always resolve paths relative to this file, not the working directory
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 st.set_page_config(
     page_title="Dodla Fresh",
     page_icon="🥛",
@@ -12,12 +15,12 @@ st.set_page_config(
 # ── Load data ──────────────────────────────────────────────
 @st.cache_data
 def load_products():
-    with open("data/products.json") as f:
+    with open(os.path.join(BASE_DIR, "data", "products.json")) as f:
         return json.load(f)
 
 @st.cache_data
 def load_recipes():
-    with open("data/recipes.json") as f:
+    with open(os.path.join(BASE_DIR, "data", "recipes.json")) as f:
         return json.load(f)
 
 # ── Session State Init ─────────────────────────────────────

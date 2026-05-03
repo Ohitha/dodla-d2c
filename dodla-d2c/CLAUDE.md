@@ -94,4 +94,3 @@ dodla-d2c/
 4. Check existing code before writing new code
 5. Test by running `streamlit run app.py` mentally against the spec
 6. Commit with meaningful messages: `feat(wallet): add recharge flow`
-
