@@ -1,0 +1,105 @@
+[
+  {
+    "id": "r1",
+    "name": "Classic Masala Chai",
+    "emoji": "☕",
+    "time_mins": 10,
+    "category": "Beverages",
+    "dodla_products": ["p1"],
+    "ingredients": ["250ml Dodla Toned Milk", "1 cup water", "2 tsp tea leaves", "1 inch ginger (grated)", "4 cardamom pods", "2 tsp sugar"],
+    "steps": [
+      "Crush cardamom pods and grate ginger",
+      "Boil water with ginger and cardamom for 2 minutes",
+      "Add tea leaves and simmer for 1 minute",
+      "Pour in Dodla Toned Milk and bring to boil",
+      "Add sugar, strain and serve hot"
+    ]
+  },
+  {
+    "id": "r2",
+    "name": "Paneer Bhurji",
+    "emoji": "🍳",
+    "time_mins": 20,
+    "category": "Breakfast",
+    "dodla_products": ["p11"],
+    "ingredients": ["200g Dodla Paneer (crumbled)", "1 onion (diced)", "2 tomatoes (chopped)", "1 green chilli", "1 tsp cumin", "½ tsp turmeric", "Salt to taste", "Fresh coriander"],
+    "steps": [
+      "Heat oil, add cumin seeds until they splutter",
+      "Sauté onions until golden brown",
+      "Add tomatoes and green chilli, cook until mushy",
+      "Add turmeric, salt and mix well",
+      "Crumble in Dodla Paneer and toss on high heat for 3 minutes",
+      "Garnish with fresh coriander and serve with rotis"
+    ]
+  },
+  {
+    "id": "r3",
+    "name": "Mango Lassi",
+    "emoji": "🥭",
+    "time_mins": 5,
+    "category": "Beverages",
+    "dodla_products": ["p4"],
+    "ingredients": ["200g Dodla Curd", "1 ripe mango (chopped)", "2 tbsp sugar", "¼ tsp cardamom powder", "Ice cubes", "Pinch of saffron (optional)"],
+    "steps": [
+      "Blend mango pieces until smooth puree",
+      "Add Dodla Curd, sugar and cardamom",
+      "Blend again until frothy",
+      "Serve chilled with ice cubes",
+      "Garnish with saffron strands"
+    ]
+  },
+  {
+    "id": "r4",
+    "name": "Ghee Rice (Nei Sadam)",
+    "emoji": "🍚",
+    "time_mins": 30,
+    "category": "Mains",
+    "dodla_products": ["p7"],
+    "ingredients": ["2 cups basmati rice", "3 tbsp Dodla Pure Cow Ghee", "1 onion (sliced thin)", "Bay leaf, cloves, cardamom", "Cashews and raisins", "Salt to taste"],
+    "steps": [
+      "Wash and soak rice for 20 minutes",
+      "Heat Dodla Ghee in a heavy pot",
+      "Fry cashews and raisins until golden, set aside",
+      "Sauté onions with whole spices until caramelised",
+      "Add drained rice, toast for 2 minutes",
+      "Add 3.5 cups water and salt, cook covered on low heat 18 minutes",
+      "Fluff with fork and top with fried cashews and raisins"
+    ]
+  },
+  {
+    "id": "r5",
+    "name": "Shrikhand",
+    "emoji": "🍨",
+    "time_mins": 240,
+    "category": "Desserts",
+    "dodla_products": ["p4"],
+    "ingredients": ["400g Dodla Curd (full fat)", "4 tbsp powdered sugar", "½ tsp cardamom powder", "Pinch of saffron", "Sliced pistachios to garnish"],
+    "steps": [
+      "Hang Dodla Curd in a muslin cloth for 3-4 hours to drain whey",
+      "Transfer hung curd to a bowl",
+      "Dissolve saffron in 1 tsp warm milk",
+      "Beat curd with sugar until smooth and creamy",
+      "Mix in cardamom and saffron milk",
+      "Refrigerate for 1 hour and serve chilled",
+      "Garnish with pistachios"
+    ]
+  },
+  {
+    "id": "r6",
+    "name": "Butter Naan (Tandoor Style)",
+    "emoji": "🫓",
+    "time_mins": 45,
+    "category": "Breads",
+    "dodla_products": ["p8", "p1"],
+    "ingredients": ["2 cups maida (all purpose flour)", "½ cup Dodla Toned Milk (warm)", "2 tbsp Dodla Butter (melted)", "1 tsp yeast", "1 tsp sugar", "Salt to taste", "Garlic and coriander for topping"],
+    "steps": [
+      "Dissolve yeast and sugar in warm Dodla Milk, rest 10 min",
+      "Mix flour and salt, add yeast mixture and knead 10 minutes",
+      "Rest dough covered for 30 minutes until doubled",
+      "Roll into oval shapes ½cm thick",
+      "Cook on a very hot griddle 2 min per side until charred spots appear",
+      "Brush generously with Dodla Butter while hot",
+      "Top with garlic and coriander"
+    ]
+  }
+]

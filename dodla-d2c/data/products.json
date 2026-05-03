@@ -1,0 +1,14 @@
+[
+  {"id":"p1","name":"Toned Milk 500ml","category":"Milk","price":26,"emoji":"🥛","desc":"Pasteurized, homogenized. 3% fat. Perfect for everyday use.","in_stock":true},
+  {"id":"p2","name":"Full Cream Milk 500ml","category":"Milk","price":30,"emoji":"🥛","desc":"Rich and creamy. 6% fat. Great for tea and cooking.","in_stock":true},
+  {"id":"p3","name":"Long Life UHT Milk 1L","category":"Milk","price":68,"emoji":"🍶","desc":"90-day shelf life. No refrigeration needed until opened.","in_stock":true},
+  {"id":"p4","name":"Curd 200g","category":"Curd & Buttermilk","price":22,"emoji":"🫙","desc":"Fresh set curd, thick and creamy. Made with live cultures.","in_stock":true},
+  {"id":"p5","name":"Spiced Buttermilk 200ml","category":"Curd & Buttermilk","price":12,"emoji":"🥤","desc":"Tempered with cumin, ginger and curry leaves.","in_stock":true},
+  {"id":"p6","name":"Mango Lassi 200ml","category":"Curd & Buttermilk","price":28,"emoji":"🥭","desc":"Real mango pulp blended with fresh curd. Seasonal favourite.","in_stock":true},
+  {"id":"p7","name":"Pure Cow Ghee 200ml","category":"Ghee & Butter","price":185,"emoji":"🫙","desc":"Slow churned A2 cow ghee. Traditional Bilona method.","in_stock":true},
+  {"id":"p8","name":"Butter 100g","category":"Ghee & Butter","price":55,"emoji":"🧈","desc":"Fresh churned, lightly salted. Best with rotis and toast.","in_stock":false,"restock":"May 10"},
+  {"id":"p9","name":"Doodh Peda 6pc","category":"Sweets","price":85,"emoji":"🍮","desc":"Traditional milk sweets made with Dodla's fresh milk.","in_stock":true},
+  {"id":"p10","name":"Chocolate Milk 200ml","category":"Sweets","price":30,"emoji":"🍫","desc":"Kids' favourite. No artificial colours or preservatives.","in_stock":true},
+  {"id":"p11","name":"Paneer 200g","category":"Paneer","price":95,"emoji":"🧀","desc":"Soft, fresh. Made daily. Doubles in volume when cooked.","in_stock":true},
+  {"id":"p12","name":"Vanilla Ice Cream 500ml","category":"Sweets","price":120,"emoji":"🍦","desc":"Creamy real milk base. No synthetic flavours.","in_stock":true}
+]
